@@ -1,9 +1,0 @@
-[ ] animate obstacles
-[ ] crouching
-[ ] jumping
-[ ] collision detection
-[ ] score mechanics
-[ ] obstacle types (flying and non-flying)
-[ ] variable speed
-[ ] nicer graphics
-[ ] sound
